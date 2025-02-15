@@ -7,4 +7,4 @@
 ## 🕹️ Navigation
 ### To view the recipe pages for each dish, click on the highlighted words below the "Random favorite Filipino dishes" header
 
-## 📺 Live at: https://adzalmazan.github.io/odin-recipes/
+## 📺 Live at: https://adzalmazan1.github.io/odin-recipes/
